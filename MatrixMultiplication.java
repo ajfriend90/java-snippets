@@ -38,5 +38,6 @@ public class MatrixMultiplication {
          System.out.printf("%d ", matrixC[i]);   
       }
       System.out.println();
+      scnr.close();
    }
 }
