@@ -1,8 +1,9 @@
 import java.util.Scanner; 
-
+/*Multiplies a 1xN matrix A by a NxN matrix B to output a 1xN matrix C 
+* Proud of this one — had to carefully reason through indexing and the math logic
+*/
 public class MatrixMultiplication {
    public static void main(String[] args) {
-	  // Multiplies a 1xN matrix A by a NxN matrix B to output a 1xN matrix C 
      // Define variables and gather input from user
       Scanner scnr = new Scanner(System.in);
       System.out.print("Enter the matrix size N (A is 1xN, B is NxN): ");
