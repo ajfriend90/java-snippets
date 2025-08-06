@@ -15,4 +15,8 @@ A collection of small Java programs and methods that I’m building as I learn a
 
 - `PlantClassLab.java`: Take in input for plant/flower until terminal input and then print report.
 
+- `ConsecutiveHeads.java`: Calculate the number of flips of a coin required to reach a consecutive number of heads.
+
+- `ConsecutiveHeadsOptimized.java`: This is written by ChatGPT. I gave it my own ConsecutiveHeads.java program and asked it if it could optimize it to be any more time efficient. I wanted to test it out and see how much better it could be.
+
 More to come.
